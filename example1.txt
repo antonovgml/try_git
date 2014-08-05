@@ -1,2 +1,4 @@
-Documentation line 1 in example1
-Documentation line 2 in example1
+Line 1 of example1
+Line 2 of example1
+Line 3 of example1
+
